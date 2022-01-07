@@ -7,6 +7,7 @@ const messages = document.querySelector('.messages')
 const message = messages.querySelectorAll('.message ')
 const messageSearch = document.querySelector('#message-search')
 
+
 //theme
 const theme = document.querySelector('#theme')
 const themeModal = document.querySelector('.customize-theme')
